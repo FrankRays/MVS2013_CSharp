@@ -1,0 +1,11 @@
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\bin\Release\TextEditor.exe.config
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\bin\Release\TextEditor.exe
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\bin\Release\TextEditor.pdb
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\bin\Release\TextEditor.BaseLibrary.dll
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\bin\Release\TextEditor.BaseLibrary.pdb
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\obj\Release\TextEditor.csprojResolveAssemblyReference.cache
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\obj\Release\TextEditor.FormMainWindow.resources
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.Cache
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\obj\Release\TextEditor.exe
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor\obj\Release\TextEditor.pdb

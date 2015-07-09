@@ -1,0 +1,5 @@
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor.BaseLibrary\bin\Debug\TextEditor.BaseLibrary.dll
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor.BaseLibrary\bin\Debug\TextEditor.BaseLibrary.pdb
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor.BaseLibrary\obj\Debug\TextEditor.BaseLibrary.csprojResolveAssemblyReference.cache
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor.BaseLibrary\obj\Debug\TextEditor.BaseLibrary.dll
+E:\IT\Visual Studio 2013 Projects\TextEditor WinForms\TextEditor.BaseLibrary\obj\Debug\TextEditor.BaseLibrary.pdb
