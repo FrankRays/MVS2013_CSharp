@@ -1,0 +1,13 @@
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\bin\Debug\Bank Manager.exe.config
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\bin\Debug\Bank Manager.exe
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\bin\Debug\Bank Manager.pdb
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.MainForm.resources
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.Properties.Resources.resources
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank Manager.csproj.GenerateResource.Cache
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank Manager.exe
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank Manager.pdb
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.AddDebitor.resources
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.Resources.resources
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.NewCredit.resources
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.NewPayment.resources
+E:\IT\Visual Studio 2013 Projects\Bank Database Manager\Bank Manager\obj\Debug\Bank_Manager.AboutBox.resources
